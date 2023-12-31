@@ -38,12 +38,22 @@ For educational purpose only
 ## Install Safe Exam Browser
 
 1. Open your virtual machine
-2. Install **[Safe Exam Browser](https://safeexambrowser.org/download_en.html) Setup Bundle**, I recommend to use old **3.1.1** version
-3. After the installation succeeded, you can try to open Safe Exam Browser by clicking on **.seb** file
+2. Install **[Safe Exam Browser](https://safeexambrowser.org/download_en.html) Setup Bundle**
+
+## Patch Safe Exam Browser
+
+1. Download all files from `SafeExamBrowser/Application`
+2. Copy and replace downloaded files to `C:\Program Files\SafeExamBrowser\Application`
+3. Now you can try to open Safe Exam Browser by clicking on **.seb** file
+
+## What's Working?
+
+- Bypass VM detection
+- Live proctoring
+- Switch between guest and host machine
 
 ## Notes
 
-- The newest Safe Exam Browser version can't use face verification
-- The old Safe Exam Browser like 3.1.0 or 3.1.1 can't show math as well
+- Can't use 3.6.0 version, use 3.5.0 instead
 
 </details>
